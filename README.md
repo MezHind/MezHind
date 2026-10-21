@@ -1,151 +1,229 @@
-# ୨୧ Welcome to my Cyber Space 🖤
+<!--
+  GitHub Profile README
+  Owner: MezHind
+  Palette: Midnight #0D1117 | Blush #F0B6D2 | Lavender #C9B6E4
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8D7E8,50:D8B4E2,100:24202B&height=200&section=header&text=Hind%20El%20Mezouari&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20Digital%20Defense&descAlignY=60&descSize=15" width="100%" alt="Elegant pink and dark cybersecurity banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:493348,75:C9A7C8,100:F0B6D2&height=210&section=header&text=Hind%20El%20Mezouari&fontSize=39&fontColor=FFFFFF&fontAlignY=37&desc=Cybersecurity%20%7C%20Penetration%20Testing%20%7C%20Application%20Security&descSize=13&descAlignY=59&animation=fadeIn" width="100%" alt="Dark and blush-pink cybersecurity banner"/>
 
-**Cybersecurity enthusiast • Future Security Engineer • Lifelong Learner**
+### `> Think like an attacker. Build like a defender.`
 
-*Securing the digital world, one project at a time.* ♡
+**Cybersecurity Enthusiast | Aspiring Penetration Tester | Engineering Student**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E8B4D0?style=flat-square&logo=linkedin&logoColor=24202B)](YOUR_LINKEDIN_URL)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=D8B4E2&label=VISITORS)](https://github.com/YOUR_USERNAME)
+Exploring application security, ethical hacking, identity and access management, and defensive security — one lab at a time.
+
+<br/>
+
+<a href="https://github.com/MezHind">
+  <img src="https://img.shields.io/badge/GitHub-MezHind-17151C?style=for-the-badge&logo=github&logoColor=F0B6D2" alt="GitHub profile"/>
+</a>
+<a href="https://www.linkedin.com/in/hind-elmezouari-a10b2b290">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-C9A7C8?style=for-the-badge&logo=linkedin&logoColor=17151C" alt="LinkedIn profile"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/FOCUS-Penetration%20Testing-F0B6D2?style=flat-square&labelColor=17151C" alt="Primary focus: penetration testing"/>
+<img src="https://img.shields.io/badge/INTEREST-Application%20Security-C9A7C8?style=flat-square&labelColor=17151C" alt="Application security"/>
+<img src="https://img.shields.io/badge/MINDSET-Curious%20%26%20Analytical-F0B6D2?style=flat-square&labelColor=17151C" alt="Curious and analytical mindset"/>
 
 </div>
 
 ---
 
-### ♡ `01` — About Me
+## ୨୧ About Me
 
-Hello, and welcome to my corner of GitHub! 🎀
+Hi, I'm **Hind** — an engineering student building my expertise in cybersecurity, with a particular interest in penetration testing and application security.
 
-I'm **Hind**, a final-year engineering student passionate about cybersecurity, threat detection, and the intersection of artificial intelligence and security.
+I enjoy understanding how applications, authentication mechanisms, operating systems, and networks work — and how to assess their security systematically.
 
-I enjoy exploring how systems work, understanding how vulnerabilities emerge, and building practical projects that turn theoretical knowledge into real-world skills.
+My learning combines offensive security concepts with defensive knowledge, helping me understand not only how vulnerabilities can arise, but also how to detect, investigate, and remediate them.
 
-- 🛡️ **Cybersecurity:** Security monitoring, threat detection & vulnerability analysis
-- 🔍 **Blue Team:** SIEM, log analysis & incident investigation
-- 🤖 **AI Security:** LLM security, adversarial testing & security guardrails
-- 💻 **Development:** Java, Python & security-oriented projects
-- 🎯 **Current goal:** Finding a cybersecurity PFE internship and growing into a skilled security engineer
-- 🌸 **My philosophy:** Stay curious, think critically, and keep learning.
+- 🔐 **Offensive Security:** Web and mobile application security, vulnerability assessment, and ethical testing.
+- 🕸️ **Application Security:** OWASP Top 10, mobile security testing, and remediation.
+- 📱 **Android Security:** APK analysis, JADX, ADB, and OWASP MASVS.
+- 🛡️ **Security Operations:** Wazuh, SIEM, detection engineering, and MITRE ATT&CK.
+- 🔑 **Identity & Access Management:** Keycloak, LDAP, SSO, OAuth 2.0, OIDC, and MFA.
+- 🐧 **Systems Security:** Linux hardening, network fundamentals, cryptography, and security baselines.
 
-### ♡ `02` — Technical Arsenal
+**My goal:** Turn cybersecurity knowledge into documented, practical projects and continue developing as a security professional.
+
+## ୨୧ Technical Arsenal
+
+<details open>
+<summary><b>01 · Penetration Testing & Application Security</b></summary>
+<br/>
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4D6B8A?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-17151C?style=flat-square&logo=owasp&logoColor=F0B6D2)
+![OWASP MASVS](https://img.shields.io/badge/OWASP-MASVS-C9A7C8?style=flat-square)
+![JADX](https://img.shields.io/badge/JADX-17151C?style=flat-square)
+![ADB](https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android&logoColor=17151C)
+
+Web application security · Mobile application security · APK analysis · Vulnerability assessment · Remediation
+
+</details>
+
+<details open>
+<summary><b>02 · SOC, SIEM & Threat Detection</b></summary>
+<br/>
+
+![Wazuh](https://img.shields.io/badge/Wazuh-5B45D6?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E74C3C?style=flat-square)
+
+Event correlation · Detection rules · Alert triage · Log analysis · Incident response · Network traffic analysis
+
+</details>
+
+<details>
+<summary><b>03 · IAM & Authentication</b></summary>
+<br/>
+
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+![OpenLDAP](https://img.shields.io/badge/OpenLDAP-17151C?style=flat-square)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square)
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-17151C?style=flat-square)
+![OpenID Connect](https://img.shields.io/badge/OIDC-C9A7C8?style=flat-square&logoColor=17151C)
+![SAML](https://img.shields.io/badge/SAML%202.0-493348?style=flat-square)
+![MFA](https://img.shields.io/badge/MFA%20%2F%20TOTP-F0B6D2?style=flat-square&labelColor=17151C)
+
+LDAP · SSO · OIDC · OAuth 2.0 · SAML 2.0 · MFA/TOTP · RBAC
+
+</details>
+
+<details>
+<summary><b>04 · Systems, Networking & Hardening</b></summary>
+<br/>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=17151C)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+
+TCP/IP · DNS · TLS 1.2/1.3 · SSH · nftables · firewalld · iptables · Security baselines · AIDE · fapolicyd
+
+</details>
+
+<details>
+<summary><b>05 · Cryptography, Governance & Risk</b></summary>
+<br/>
+
+![ISO 27001](https://img.shields.io/badge/ISO%2FIEC%2027001-493348?style=flat-square)
+![ISO 27005](https://img.shields.io/badge/ISO%2FIEC%2027005-C9A7C8?style=flat-square)
+![NIST CSF](https://img.shields.io/badge/NIST%20CSF-17151C?style=flat-square)
+![CIS Controls](https://img.shields.io/badge/CIS%20Controls-F0B6D2?style=flat-square&labelColor=17151C)
+
+Symmetric and asymmetric encryption · Hashing and salting · Zero Trust · Security governance · Risk management
+
+</details>
+
+<details>
+<summary><b>06 · Programming, Data & Infrastructure</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=17151C)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=17151C)
+
+Java · Python · Kotlin · Bash · Docker · VirtualBox · Spark · Hadoop · HDFS · HBase · SQLite · Firebase · AI fundamentals
+
+</details>
+
+---
+
+## ୨୧ Featured Project
 
 <div align="center">
 
-**Security & Infrastructure**
+<a href="https://github.com/MezHind/LeanMassCalculator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MezHind&repo=LeanMassCalculator&theme=transparent&hide_border=true&title_color=E8B4D0&icon_color=C9A7C8&text_color=C9D1D9" alt="LeanMassCalculator repository card"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github" alt="Linux, Docker, Bash, Git and GitHub"/>
+### LeanMassCalculator
 
-**Programming & Development**
+An Android/Kotlin development project hosted on my GitHub profile.
 
-<img src="https://skillicons.dev/icons?i=python,java,maven,mysql" alt="Python, Java, Maven and MySQL"/>
+**Technology:** Kotlin · Android
+
+[View Repository ↗](https://github.com/MezHind/LeanMassCalculator)
 
 </div>
 
-| Domain | Areas of Interest |
+> This is my currently public project. My cybersecurity portfolio will grow as I publish dedicated security labs, technical write-ups, and practical assessments.
+
+---
+
+## ୨୧ Security Portfolio Roadmap
+
+*The next chapters of my cybersecurity journey.*
+
+| Area | Planned Portfolio Work |
 |:--|:--|
-| 🔐 Security Operations | SIEM, log analysis, threat detection |
-| 🕵🏻 Security Testing | Vulnerability analysis, web security, CTFs |
-| 🧠 AI & Security | LLM security, guardrails, adversarial testing |
-| ☁️ Infrastructure | Linux, Docker, networking fundamentals |
-| 💻 Programming | Python, Java, SQL |
+| 🕸️ Web Security | Authorized testing labs, vulnerability analysis, and remediation reports |
+| 📱 Mobile Security | Android application analysis and OWASP MASVS-based assessments |
+| 🛡️ Blue Team | Wazuh monitoring, detection rules, and alert investigations |
+| 🔑 IAM Security | Authentication flows, access-control testing, and secure configuration |
+| 🐧 Linux Security | Hardening baselines, configuration reviews, and security checks |
 
-### ♡ `03` — Featured Projects
-
-*Building, breaking, learning, securing.*
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🛡️ SIEM & Threat Detection Lab
-
-A hands-on security monitoring environment focused on collecting, analyzing, and detecting suspicious activity in system logs.
-
-**Tech:** Wazuh · Linux · VirtualBox
-
-[↗ Explore the project](https://github.com/YOUR_USERNAME/YOUR_SIEM_REPO)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔍 Cybersecurity Big Data Analytics
-
-Analyzing security logs to identify malicious activity, suspicious IP addresses, and potential attack patterns.
-
-**Tech:** Java · Maven · Apache Spark · Hadoop
-
-[↗ Explore the project](https://github.com/YOUR_USERNAME/YOUR_BIGDATA_REPO)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🤖 LLM Security Research
-
-Exploring how large language models can be tested against adversarial inputs, prompt injection, and weaknesses in security guardrails.
-
-**Tech:** Python · LLM Security · AI Safety
-
-[↗ Explore the project](https://github.com/YOUR_USERNAME/YOUR_LLM_REPO)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🧪 Security Labs & CTFs
-
-A collection of hands-on exercises, technical notes, and cybersecurity challenges completed for continuous learning.
-
-**Focus:** Web Security · Linux · Security Fundamentals
-
-[↗ Explore the repository](https://github.com/YOUR_USERNAME/YOUR_CTF_REPO)
-
-</td>
-</tr>
-</table>
-
-> These are project descriptions to customize, not claims that every project is already completed. Link only repositories you have created, and describe your actual progress honestly.
-
-### ♡ `04` — GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E8B4D0&icon_color=D8B4E2&text_color=E6EDF3&rank_icon=github" height="165" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=E8B4D0&text_color=E6EDF3" height="165" alt="Most used programming languages"/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=E8B4D0&fire=D8B4E2&currStreakLabel=E8B4D0&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="90%" alt="GitHub contribution streak"/>
-
-</div>
-
-### ♡ `05` — Currently Learning
-
-- [ ] Building a practical SIEM lab with Wazuh
-- [ ] Improving threat detection and incident investigation skills
-- [ ] Practicing cybersecurity challenges and CTFs
-- [ ] Exploring LLM vulnerabilities and AI security
-- [ ] Developing and documenting security projects
-
-*Progress is a process, and every commit counts.* ✧
-
-### ♡ `06` — Beyond the Terminal
-
-I believe technical excellence and creativity can coexist. Outside my security labs, I enjoy learning languages, discovering new ideas, and continuously improving both my technical and professional skills.
-
-**Curiosity is my mindset. Security is my direction. Growth is my commitment.**
+*These are portfolio goals, not claims of completed public projects.*
 
 ---
 
+## ୨୧ Currently Exploring
+
+- [ ] Strengthening web application security testing skills.
+- [ ] Practicing Android security analysis with JADX and ADB.
+- [ ] Improving network reconnaissance and traffic analysis.
+- [ ] Deepening my understanding of authentication and access-control weaknesses.
+- [ ] Documenting security findings with clear evidence and remediation guidance.
+- [ ] Building a practical security lab and publishing reproducible results.
+
+**Ethical testing only:** I practice in authorized labs, training environments, and systems for which I have explicit permission.
+
+---
+
+## ୨୧ GitHub Activity
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24202B,50:D8B4E2,100:F8D7E8&height=110&section=footer" width="100%" alt="Pink and purple decorative footer"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MezHind&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F0B6D2&icon_color=C9A7C8&text_color=E6EDF3&rank_icon=github" width="49%" alt="GitHub contribution and repository statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MezHind&layout=compact&hide_border=true&bg_color=0D1117&title_color=F0B6D2&text_color=E6EDF3" width="41%" alt="Languages in public repositories"/>
 
-**Let's connect, collaborate, and build something meaningful.** ♡
+<br/>
 
-<sub>Designed with intention • Driven by curiosity • Focused on security</sub>
+<img src="https://streak-stats.demolab.com?user=MezHind&hide_border=true&background=0D1117&ring=F0B6D2&fire=C9A7C8&currStreakLabel=F0B6D2&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="90%" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## ୨୧ Let's Connect
+
+I'm interested in learning from the cybersecurity community, exchanging technical knowledge, and discovering opportunities to grow through meaningful projects.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hind-elmezouari-a10b2b290">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-F0B6D2?style=for-the-badge&logo=linkedin&logoColor=17151C" alt="Connect on LinkedIn"/>
+</a>
+<a href="https://github.com/MezHind">
+  <img src="https://img.shields.io/badge/Explore%20my%20GitHub-C9A7C8?style=for-the-badge&logo=github&logoColor=17151C" alt="Explore my GitHub"/>
+</a>
+
+<br/><br/>
+
+*Elegant in design. Analytical in mindset. Responsible in security.* ♡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:493348,100:F0B6D2&height=100&section=footer" width="100%" alt="Blush-pink and midnight footer"/>
 
 </div>
