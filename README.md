@@ -17,6 +17,25 @@
 
 </div>
 
+
+```text
+┌──(hind㉿cyber-lab)-[~]
+└─$ whoami
+   Cybersecurity student | Future security professional
+
+┌──(hind㉿cyber-lab)-[~]
+└─$ mission
+   Learn. Investigate. Build. Secure.
+
+┌──(hind㉿cyber-lab)-[~]
+└─$ exploring
+   SOC/SIEM | IAM | Application Security | Security Labs
+
+┌──(hind㉿cyber-lab)-[~]
+└─$ status
+   Always learning. Always evolving. _
+```
+
 ---
 
 ## ୨୧ About Me
