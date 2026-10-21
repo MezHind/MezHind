@@ -17,7 +17,11 @@
 
 </div>
 
----
+
+<div align="center">
+  <sub>✦ ────────────── ♡ ────────────── ✦</sub>
+</div>
+
 
 
 ```text
@@ -61,7 +65,11 @@ I don't claim to know everything; I'm here to keep learning, challenge myself, a
 
 </div>
 
----
+
+<div align="center">
+  <sub>✦ ────────────── ♡ ────────────── ✦</sub>
+</div>
+
 
 ## ୨୧ Technical Skills & Tools
 
@@ -167,7 +175,11 @@ I don't claim to know everything; I'm here to keep learning, challenge myself, a
 - **Big Data:** Apache Spark, Hadoop, HDFS, HBase
 - **Additional interests:** Artificial intelligence fundamentals and their applications in technology and security
 
----
+
+<div align="center">
+  <sub>✦ ────────────── ♡ ────────────── ✦</sub>
+</div>
+
 
 ## ୨୧ Projects & Practical Work
 
@@ -201,7 +213,11 @@ This is my currently public project. I'm continuing to build my technical portfo
 
 *These are ongoing learning goals, not claims of completed projects.*
 
----
+
+<div align="center">
+  <sub>✦ ────────────── ♡ ────────────── ✦</sub>
+</div>
+
 
 ## ୨୧ GitHub Activity
 
@@ -215,7 +231,10 @@ This is my currently public project. I'm continuing to build my technical portfo
 
 </div>
 
----
+
+<div align="center">
+  <sub>✦ ────────────── ♡ ────────────── ✦</sub>
+</div>
 
 ## ୨୧ Beyond the Code
 
