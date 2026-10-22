@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:493348,75:C9A7C8,100:F0B6D2&height=220&section=header&text=Hind%20El%20Mezouari&fontSize=40&fontColor=FFFFFF&fontAlignY=36&desc=Cybersecurity%20%7C%20Engineering%20%7C%20Continuous%20Growth&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Elegant blush pink and midnight cybersecurity banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:493348,75:C9A7C8,100:F0B6D2&height=220&section=header&text=HIND%20ELMEZOUARIi&fontSize=40&fontColor=FFFFFF&fontAlignY=36&desc=Cybersecurity%20%7C%20Engineering%20%7C%20Continuous%20Growth&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Elegant blush pink and midnight cybersecurity banner"/>
 
 ### `> Curious mind. Security-driven. Always evolving.`
 
