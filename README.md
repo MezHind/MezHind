@@ -18,9 +18,9 @@
 </div>
 
 
-<div align="center">
-  <sub>✦ ────────────── ♡ ────────────── ✦</sub>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B5CF6,50:EC4899,100:F9A8D4&section=header&reversal=false" width="100%" alt="Purple and pink gradient divider"/>
+</p>
 
 
 
@@ -66,9 +66,10 @@ I don't claim to know everything; I'm here to keep learning, challenge myself, a
 </div>
 
 
-<div align="center">
-  <sub>✦ ────────────── ♡ ────────────── ✦</sub>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B5CF6,50:EC4899,100:F9A8D4&section=header&reversal=false" width="100%" alt="Purple and pink gradient divider"/>
+</p>
+
 
 
 ## ୨୧ Technical Skills & Tools
@@ -176,9 +177,11 @@ I don't claim to know everything; I'm here to keep learning, challenge myself, a
 - **Additional interests:** Artificial intelligence fundamentals and their applications in technology and security
 
 
-<div align="center">
-  <sub>✦ ────────────── ♡ ────────────── ✦</sub>
-</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B5CF6,50:EC4899,100:F9A8D4&section=header&reversal=false" width="100%" alt="Purple and pink gradient divider"/>
+</p>
+
 
 
 ## ୨୧ Projects & Practical Work
@@ -214,9 +217,11 @@ This is my currently public project. I'm continuing to build my technical portfo
 *These are ongoing learning goals, not claims of completed projects.*
 
 
-<div align="center">
-  <sub>✦ ────────────── ♡ ────────────── ✦</sub>
-</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B5CF6,50:EC4899,100:F9A8D4&section=header&reversal=false" width="100%" alt="Purple and pink gradient divider"/>
+</p>
+
 
 
 ## ୨୧ GitHub Activity
@@ -232,9 +237,11 @@ This is my currently public project. I'm continuing to build my technical portfo
 </div>
 
 
-<div align="center">
-  <sub>✦ ────────────── ♡ ────────────── ✦</sub>
-</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B5CF6,50:EC4899,100:F9A8D4&section=header&reversal=false" width="100%" alt="Purple and pink gradient divider"/>
+</p>
+
 
 ## ୨୧ Beyond the Code
 
