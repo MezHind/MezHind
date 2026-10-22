@@ -42,6 +42,9 @@
    Always learning. Always evolving. _
 ```
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8B5CF6,50:EC4899,100:F9A8D4&section=header&reversal=false" width="100%" alt="Purple and pink gradient divider"/>
+</p>
 
 ## ୨୧ About Me
 
